@@ -1,1 +1,25 @@
 
+.title {
+  font-size:48px;
+   text-align:center;
+  color:rgb(33, 122, 1);
+  font-style: oblique;
+}
+
+.name {
+  font-size:25px;
+  text-align:center;
+  color:rgb(33, 122, 1);
+  font-style: oblique;
+}
+
+body{
+  background-color:#f75b59;
+}
+
+img{
+  width: 100%;
+  padding-right: 25%;
+  padding-left: 25%;
+  width: 50%;
+}
